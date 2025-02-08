@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149059771394",
+    "project_id": "fir-demo-c359b",
+    "storage_bucket": "fir-demo-c359b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149059771394:android:fd2926587715ebb84e1b1b",
+        "android_client_info": {
+          "package_name": "aayushkhirraiyya.com.flash_chat2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtslDIqckXRBO8o50Tykz2rAxYyRNPn34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
